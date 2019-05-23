@@ -10,7 +10,7 @@ class Dog
 end
 
 
-lassie = Dog.net
+lassie = Dog.new
 lassie.name = "Lassie"
 
 puts lassie.name
