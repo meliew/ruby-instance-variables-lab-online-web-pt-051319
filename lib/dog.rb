@@ -12,3 +12,5 @@ end
 
 lassie = Dog.net
 lassie.name = "Lassie"
+
+puts lassie.name
